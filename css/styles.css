@@ -1,0 +1,27 @@
+h1{
+  color: Teal;
+}
+
+body{
+  text-align: center;
+  font-family: fantasy;
+}
+
+ul{
+  font-style: italic;
+  line-height: normal;
+}
+
+ol{
+  font-style: italic;
+  line-height: normal;
+}
+
+p{
+  font-weight: lighter;
+  font-size: 18pt
+}
+
+li{
+  list-style-position: inside;
+}
