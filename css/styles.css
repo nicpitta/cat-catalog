@@ -27,3 +27,26 @@ p{
 li{
   list-style-position: inside;
 }
+
+.flashy{
+  color: #94fccb;
+}
+
+.best{
+  color: #fc968a;
+  text-shadow: 2px 2px black;
+}
+
+.lunaImg{
+  float:left;
+}
+
+.aboutMe{
+  color: #e5b5ff;
+}
+.column{
+  float: left;
+  width: 48%;
+  height: 250px;
+  border: 2px solid yellow;
+}
