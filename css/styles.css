@@ -48,5 +48,8 @@ li{
   float: left;
   width: 48%;
   height: 250px;
-  border: 2px solid yellow;
+  border: 2px inset #71827d;
+  background-color: #399390;
+  padding: 4px;
+  margin: 2px;
 }
